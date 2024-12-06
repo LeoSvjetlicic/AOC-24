@@ -1,7 +1,7 @@
 package org.example
 
-import org.example.day1.day1Puzzle2
+import org.example.day2.day2Puzzle2
 
 fun main() {
-    println(day1Puzzle2())
+    println(day2Puzzle2())
 }
